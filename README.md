@@ -8,8 +8,7 @@ Clone o repositório
 git clone https://github.com/fabriciovale20/adivinhe-o-numero.git
 ```
 
-* **Link do Canal**
-https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
+* **[Curso de Python 3](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)**
 
 
 * **[Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)**
