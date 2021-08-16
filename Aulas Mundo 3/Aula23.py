@@ -1,4 +1,6 @@
-#  AULA 23 - Tratamento de Erros e Exceções
+"""
+    Curso Python Aula 23 - Tratamento de Erros e Exceções
+"""
 
 try:
     a = int(input('Numerador: '))
