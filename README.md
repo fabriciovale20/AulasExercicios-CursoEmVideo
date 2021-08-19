@@ -8,6 +8,8 @@ Clone o repositório
 git clone https://github.com/fabriciovale20/adivinhe-o-numero.git
 ```
 
+Em seguida execute na IDE de sua preferência (VSCode, Pycharm...)
+
 * **[Curso de Python 3](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)**
 
 
