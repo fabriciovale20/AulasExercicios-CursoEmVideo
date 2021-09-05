@@ -1,5 +1,5 @@
 """
-Exercício 22
+    Exercício 22
 
     Crie um programa que leio o nome completo de uma pessoa e mostre:
 a) Nome com todas as letras maiúsculas;

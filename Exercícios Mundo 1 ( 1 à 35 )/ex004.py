@@ -1,8 +1,8 @@
 """
-Exercício 04
+    Exercício 04
 
     Faça um programa que leia algo pelo teclado e mostre na tela o seu
-tipo primitivos e todas as informações possíveis sobre eltexto.
+tipo primitivos e todas as informações possíveis sobre o texto.
 """
 
 texto = str(input('Digite algo: '))

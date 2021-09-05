@@ -1,5 +1,5 @@
 """
-Exercício 35
+    Exercício 35
 
     Desenvolva um programa que leia o comprimento de três restas e diga
 ao usuário se elas podem ou não formar um triângulo.

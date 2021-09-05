@@ -1,5 +1,5 @@
 """
-Exercício 26
+    Exercício 26
 
     Faça um programa que leia uma frase pelo teclado e mostre
 a) Quantas vezes aparece a letra "A";

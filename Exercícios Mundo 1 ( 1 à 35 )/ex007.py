@@ -1,5 +1,5 @@
 """
-Exercício 07
+    Exercício 07
 
     Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 """
