@@ -10,7 +10,7 @@ from time import sleep
 from random import randint
 
 print('\033[1:93m-=\033[m'*28)
-print('\033[1:94mVou pensar em um número entre 0 e 5. Tente adivinhar...\033/m')
+print('\033[1:94mVou pensar em um número entre 0 e 5. Tente adivinhar...\033[m')
 print('\033[1:93m-=\033[m'*28)
 
 numero_escolhido = randint(0, 5)
