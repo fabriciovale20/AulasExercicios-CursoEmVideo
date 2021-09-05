@@ -17,12 +17,11 @@ n2 = int(input('Segundo valor: '))
 opcao = 0
 
 while opcao != 5:
-    print('''
-    1 - Somar
-    2 - Multiplicar
-    3 - Maior
-    4 - Novos números
-    5 - Sair do programa''')
+    print('''1 - Somar
+2 - Multiplicar
+3 - Maior
+4 - Novos números
+5 - Sair do programa''')
     opcao = int(input('Qual é a sua opção? '))
     if opcao == 1:
         print(f'A soma entre {n1} + {n2} é de {n1 + n2}')
