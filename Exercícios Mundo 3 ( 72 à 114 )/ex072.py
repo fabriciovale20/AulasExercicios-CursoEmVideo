@@ -1,9 +1,8 @@
 """
-Exercício 72
+    Exercício 72
 
-    Crie um programa que tenha uma tupla preenchida com uma contagem
-por extenso de zero até vinte. Seu programa deverá ler um número pelo teclado
-(entre 0 e 20) e mostrá-lo por extenso.
+    Crie um programa que tenha uma tupla preenchida com uma contagem por extenso de zero até vinte.
+Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 """
 
 tupla = (
@@ -14,4 +13,4 @@ numero = int(input('Digite um número entre 0 e 20: '))
 while numero > 10 or numero < 0:
     numero = int(input('Tente novamente. Digite um número entre 0 e 20: '))
 
-print(tupla[numero].title())
+print(tupla[numero].title())  # title() server para deixar a primeira letra maiúscula

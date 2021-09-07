@@ -4,7 +4,7 @@
     Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário
 vai continuar. No final, mostre:
 
-a( Qual é total gasto na compra.
+a) Qual é total gasto na compra.
 b) Quantos produtos custam mais de R$1.000,00.
 c) Qual é o nome do produto mais barato.
 """
@@ -50,4 +50,3 @@ print(f'''
 a) O total da compra foi R${total_compra:.2f}
 b) Temos {produto_maior_1000} custando mais de R$1.000,00
 c) O produto mais barato foi {nome_produto_mais_barato} que custa {valor_produto_mais_barato:.2f}''')
-
