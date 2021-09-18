@@ -5,7 +5,7 @@ Anotações e resolução dos exercícios do curso Python do Canal **Curso em V�
 ## Como rodar o projeto:
 Clone o repositório
 ```
-git clone https://github.com/fabriciovale20/adivinhe-o-numero.git
+git clone https://github.com/fabriciovale20/AulasExercicios-CursoEmVideo.git
 ```
 
 Em seguida execute na IDE de sua preferência (VSCode, Pycharm...)
