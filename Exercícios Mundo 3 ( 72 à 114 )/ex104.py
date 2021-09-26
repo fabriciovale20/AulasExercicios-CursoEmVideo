@@ -11,7 +11,7 @@ n = leiaInt('Digite um número: ')
 
 def leiaInt(msg):
     while True:
-        n = str(input('Digite um número: '))
+        n = str(input(msg))
 
         if n.isnumeric():
             n = int(n)

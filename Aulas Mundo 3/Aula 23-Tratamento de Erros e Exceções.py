@@ -1,6 +1,11 @@
-"""
-    Curso Python Aula 23 - Tratamento de Erros e Exceções
-"""
+# try:
+#     OPERAÇÃO
+# except:
+#     FALHOU
+# else:
+#     DEU CERTO
+# finally:
+#     CERTO / FALHA
 
 try:
     a = int(input('Numerador: '))

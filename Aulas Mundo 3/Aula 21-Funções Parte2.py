@@ -1,4 +1,4 @@
-################### DOCSTRINGS ##########################
+################### DOCSTRINGS E INTERACTIVE HELP##########################
 # def contador(i, f, p):
 #     """
 #     -> Faz uma contagem e mostra na tela
