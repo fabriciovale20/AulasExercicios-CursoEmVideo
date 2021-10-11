@@ -1,4 +1,4 @@
-# Lista de Exercícios Curso em Vídeo
+# Lista de Exercícios Curso em Vídeo **Python**
 
 Anotações e resolução dos exercícios do curso Python do Canal **Curso em Vídeo**.
 
